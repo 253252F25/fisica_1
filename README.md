@@ -6,7 +6,7 @@ La cinematica è la parte della meccanica che studia **il moto dei corpi senza c
 Nel nostro sistema di riferimento che può essere un piano cartesiano, le coordinate polari o qualsiasi altro sistema La posizione è **un vettore** che individua **un corpo rispetto all’origine di un sistema di riferimento**. tramite: #localizzazione #modulo e #direzione 
 
 Lo spostamento è il cambiamento di posizione di un corpo. Anche questo è un vettore, quindi ha modulo (quanto ti sei spostato in linea retta) direzione verso (da posizione iniziale a finale)
-![[fig4.png]]
+![Alt text](./assets/img/fig4.png)
 
 
 $\Delta r = r2 - r1$
@@ -16,7 +16,7 @@ $\Delta r = r2 - r1$
 
 Per facilitare lo studio semplifichiamo il moto di un oggetto con il moto di un **punto materiale**  cioè di un punto senza le dimensioni.
 Lungo una sola direzione **moto rettilineo**. 
-![[fig5.png]]
+![Alt text](./assets/img/fig5.png)
  
 
 Nella figura vediamo il tracciato di un ascensore che procede dal piano terra al primo piano sulle assi il tempo è definito con $t$ e lo spostamento con $x$ 
@@ -35,7 +35,7 @@ Per ottenere lo spostamento e il tempo impiegato usiamo quindi queste due formul
 $$ tempo\_impiegato = t_2-t_1 $$
 $$ spostamento = x_2-x_1 $$
  
-![[fig6.png]]
+![Alt text](./assets/img/fig6.png)
 ### Velocità (Vettoriale media)
 La velocità è il rapporto tra lo spostamento e il tempo che si è impiegato per completare il movimento.
 $$
@@ -71,7 +71,7 @@ $$
 
 
 ### Grafico della posizione, velocità e accelerazione
-  ![[fig9a.png]]
+  ![Alt text](./assets/img/fig9a.png)
 In questo grafico vediamo che la velocita non è costante ma che aumenta (accelerazione) esegue un tratto a velocita costante per poi rallentare (decelerare).
 
 per prima cosa scomponiamo in diversi tratti da calcolare 
@@ -92,13 +92,13 @@ Qui non possiamo approssimare a nessuna funzione consueta quindi useremo la deri
 $$v= \frac{dx}{dt}$$
 inserendo i risultati otteniamo questo grafico
  
-![[fig9b.png]]
+![Alt text](./assets/img/fig9b.png)
 Proprio come la velocità è la variazione della posizione, l'accelerazione è la variazione della velocità nel tempo. Le formule fondamentali da usare sono:
 
 - **Accelerazione Media:** $\vec{a}=\frac{\Delta\vec{v}}{\Delta t}$
     
 - **Accelerazione Istantanea:** $\vec{a}=\frac{d\vec{v}}{dt}$ (che equivale anche alla derivata seconda della posizione: $\frac{d^{2}\vec{x}}{dt^{2}}$)
-![[fig9c.png]]
+![Alt text](./assets/img/fig9c.png)
  
 - La formula $x(t) = x(t_0) + \int_{t_0}^{t} v(t') dt'$ ci dice che la posizione in un dato istante $x(t)$ è uguale alla posizione iniziale $x(t_0)$ più lo spostamento totale avvenuto in quell'intervallo di tempo.
 
